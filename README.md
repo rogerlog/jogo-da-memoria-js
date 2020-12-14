@@ -42,7 +42,7 @@ function unflipCards() {
 
 #### Imagem Ilustrativa do jogo
 
-![fig1](/media/rlogu/A8CEE74DCEE7127C/Estudo 2020/Digital Innovation One/React Web Developer/Desenvolvendo um jogo da memoria/jogo-da-memoria-js/.tmp/fig1.png)
+![fig1](/.tmp/fig1.png)
 
-![](/media/rlogu/A8CEE74DCEE7127C/Estudo 2020/Digital Innovation One/React Web Developer/Desenvolvendo um jogo da memoria/jogo-da-memoria-js/.tmp/fig2.png)
+![](/.tmp/fig2.png)
 
