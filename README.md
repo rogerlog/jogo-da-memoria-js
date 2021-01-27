@@ -4,6 +4,8 @@
 
 Jogo da memória com 12 posições para Dev's.
 
+**[Link](https://optimistic-galileo-070c41.netlify.app/) do site no Netlify**
+
 #### Disposição das cartas nas divs
 ```html
         <div class="card" data-card="angular">
